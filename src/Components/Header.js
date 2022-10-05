@@ -9,6 +9,7 @@ class Header extends Component {
     const project = this.props.data.project;
     const github = this.props.data.github;
     const name = this.props.data.name;
+    const logo = this.props.data.logo
     const description = this.props.data.description;
     // "color"
     // "ball"
@@ -70,6 +71,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
+              <img src={logo} style={{height:'200px'}} alt="This is an animated gif image, but it does not move"/>
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
             <Fade bottom duration={1200}>
