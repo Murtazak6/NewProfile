@@ -2,13 +2,13 @@
   "main": {
     "name":"Murtaza Kankroliwala",
     "logo":"favicon.gif",
-    "description":"Full Stack Web Development | Flutter Development",
+    "description":"Full Stack Web Developer",
     "image":"profilepic.jpg",
-    "bio":"I have 2.5 years of professional expertise in full stack web and app development. React for the front end, Python for the back end, and Flutter for app development make up my current preferred tech stack. Searching for opportunities to get experience and learn new tech stacks.",
+    "bio":"I have 3+ years of professional expertise in full stack web and app development. I am a Keen learner and love to work on any Technical Stuff and ready to learn new things on Professional as well as personal aspect. Searching for opportunities to get experience and learn new tech stacks.",
     "contactmessage":"",
     "email": "mkankroli3@gmail.com",
     "phone": "+91 9819542253",
-    "github":"https://github.com/Murtazak6",
+    "github":"",
     "project":"",
     "address":{
       "street":"",
@@ -57,26 +57,26 @@
       {
         "company":"LogisticsNow Pvt. Ltd.",
         "title":"Associate Software Engineer",
-        "years":"Oct 2020 - Present",
-        "description":"Working as a Full Stack Developer. (Tech Stack: React, python, Microsoft Azure (CosmosDB, Function Apps, SignalR, Form Recognizer, etc.)). Creating UI Design using balsamiq, figma and draw.io. Working on Live Web Application for Transporters and Manufacturers for Supply Chain and Logistics Management. Handling Indents, Benchmarking, Spot Enquiries, Reverse Auctions, Procurements, etc. Mobile Application Development using flutter for LORRI Spot Enquiries."
+        "years":"Oct 2020 - Oct 2021",
+        "description":"Full Stack Developer skilled in product, architecture, and design, ensuring seamless system integration and performance.Developed live B2B Web and Mobile App bridging Transporters and Manufacturers, enhancing Supply Chain Logistics.Expertise in React and Python, leveraged Microsoft Azure tools (CosmosDB, Function Apps, SignalR, etc.) for robust application development.Craft UI designs, user flows with precision using Balasamiq, Figma, and draw.io."
       },
       {
         "company":"Upcloud Technology",
         "title":"Team Leader for Full Stack App and Web Developer Intern",
         "years":"March 2020 - October 2020",
-        "description":"Worked as a Web and App Developer. (Tech Stack: ReactJS, Flutter, Node JS, MongoDB). Live Web and App for Doctor's and Patients Appointment Settings to be updated. Sections - Creating a Doctor's Profile, Appointments Handling, Feedback to Doctor's, etc."
+        "description":"Development of Doctor's App using Flutter and Dart for a cutting-edge and efficient tech solution.Designed a patient-centric web app for profile creation, appointment booking, and feedback/review system integration.Served as a Tech Leader, guiding a team of 4-5 individuals to successful project outcomes."
       },
       {
         "company":"LogisticsNow Pvt. Ltd.",
         "title":"Associate Software Engineer Intern",
         "years":"December 2019 - March 2020",
-        "description":"Worked on Android Application as a basic app test.Also workef on live Web Application Front-end developement for their Website Using ReactJs mostly on Maps. Testing of the Web Application."
+        "description":"Built a ReactJS-powered Map webapp, showcasing proficiency in creating compact and functional location-based solutions.Tested web applications, provided feedback, and contributed to bug resolution, ensuring enhanced performance and user experience."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"ReactJs",
@@ -92,7 +92,7 @@
       },
       {
         "name":"MS Azure",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"MongoDB",
