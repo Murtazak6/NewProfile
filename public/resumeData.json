@@ -2,11 +2,11 @@
   "main": {
     "name":"Murtaza Kankroliwala",
     "logo":"favicon.gif",
-    "description":"Full Stack Web Developer",
-    "image":"profilepic.jpg",
-    "bio":"I have 3+ years of professional expertise in full stack web and app development. I am a Keen learner and love to work on any Technical Stuff and ready to learn new things on Professional as well as personal aspect. Searching for opportunities to get experience and learn new tech stacks.",
+    "description":"Senior Software Developer, LogisticsNow Pvt. Ltd. \nSkilled in Full Stack Development (Python, ReactJs), Azure, Firebase, MongoDB.",
+    "image":"profilepic3.jpeg",
+    "bio":"I have 4+ years of professional expertise in full stack web and app development. I am a Keen learner and love to work on any Technical Stuff and ready to learn new things on Professional as well as personal aspect. Searching for opportunities to get experience and learn new tech stacks.",
     "contactmessage":"",
-    "email": "mkankroli3@gmail.com",
+    "email": "mkankroli3@gmail.com | professionalkankroli@gmail.com",
     "phone": "+91 9819542253",
     "github":"",
     "project":"",
@@ -17,7 +17,7 @@
       "zip": "421201"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"./Resume.pdf",
+    "resumedownload":"./Resume-1.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -56,9 +56,15 @@
     "work":[
       {
         "company":"LogisticsNow Pvt. Ltd.",
+        "title":"Senior Software Engineer",
+        "years":"Oct 2022 - Present",
+        "description":"Full Stack Developer skilled in product, architecture, and design, ensuring seamless system integration and performance.Developed live B2B Web and Mobile App bridging Transporters and Manufacturers, enhancing Supply Chain Logistics.Expertise in React, Python, MongoDB, Redis. Leveraging Firebase (Authentication, Realtime Databases, etc.), Google Cloud(Maps API - Distance, Routing, Optimize Routing, Places autocomplete, etc.), Microsoft Azure tools (CosmosDB, Function Apps, SignalR, Storage Accounts, Frontdoor, SaaS-MongoDB, etc.) for robust application development. Additionally, Managing Team of 6-8 People and working closely to ensure proper project timeline closure and feature/module deployment."
+      },
+      {
+        "company":"LogisticsNow Pvt. Ltd.",
         "title":"Associate Software Engineer",
-        "years":"Oct 2020 - Oct 2021",
-        "description":"Full Stack Developer skilled in product, architecture, and design, ensuring seamless system integration and performance.Developed live B2B Web and Mobile App bridging Transporters and Manufacturers, enhancing Supply Chain Logistics.Expertise in React and Python, leveraged Microsoft Azure tools (CosmosDB, Function Apps, SignalR, etc.) for robust application development.Craft UI designs, user flows with precision using Balasamiq, Figma, and draw.io."
+        "years":"Oct 2020 - Oct 2022",
+        "description":"Full Stack Developer skilled in product, architecture, and design, ensuring seamless system integration and performance.Developed live B2B Web and Mobile App bridging Transporters and Manufacturers, enhancing Supply Chain Logistics.Expertise in React, Python, MongoDB, Redis. Leveraging Firebase (Authentication, Realtime Databases, etc.), Google Cloud(Maps API - Distance, Routing, Optimize Routing, Places autocomplete, etc.), Microsoft Azure tools (CosmosDB, Function Apps, SignalR, Storage Accounts, Frontdoor, SaaS-MongoDB, etc.) for robust application development. Craft UI designs, user flows with precision using Balasamiq, Figma, and draw.io."
       },
       {
         "company":"Upcloud Technology",
@@ -85,6 +91,14 @@
       {
         "name":"HTML/CSS",
         "level":"90%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Google Maps",
+        "level": "80%"
       },
       {
         "name":"Flutter",
