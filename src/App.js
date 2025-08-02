@@ -23,7 +23,7 @@ class App extends Component {
 
   getResumeData() {
     $.ajax({
-      url: "https://docs.google.com/document/d/1Ib9jVaPrCz-9mIVIzhtARzvAuro_eR6-xMcqpBUQQdM/edit?usp=sharing",
+      url: "./resumeData.json",
       dataType: "json",
       cache: false,
       success: function(data) {
