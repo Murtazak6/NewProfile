@@ -2,21 +2,21 @@
   "main": {
     "name":"Murtaza Kankroliwala",
     "logo":"favicon.gif",
-    "description":"Senior Software Developer, LogisticsNow Pvt. Ltd. \nSkilled in Full Stack Development (Python, ReactJs), Azure, Firebase, MongoDB.",
+    "description":"Software Developer - II, Carepal Money \nSkilled in Full Stack Development (Python, ReactJs), Azure, Firebase, MongoDB.",
     "image":"profilepic3.jpeg",
-    "bio":"I am a dedicated professional with over 4.2+ years of expertise in full-stack web and app development, backed by a bachelor's degree in Computer Engineering. Currently, I am expanding my knowledge in Architecture Designs and development across products. A passionate learner, I thrive on tackling challenging technical projects and am eager to acquire new skills on both professional and personal fronts. I am actively seeking opportunities to apply my knowledge, gain hands-on experience, and explore new technology stacks.",
+    "bio":"I have 5+ years of professional expertise in full stack web and app development. I am a Keen learner and love to work on any Technical Stuff and ready to learn new things on Professional as well as personal aspect. Searching for opportunities to get experience and learn new tech stacks.",
     "contactmessage":"",
     "email": "mkankroli3@gmail.com | professionalkankroli@gmail.com",
     "phone": "+91 981954 2253",
-    "github":"",
-    "project":"",
+    "github": "",
+    "project": "",
     "address":{
       "street":"",
       "city":"Mumbai",
       "state":"Maharashtra",
       "zip": "421201"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload":"./MurtazaResume.pdf",
     "social":[
       {
@@ -55,10 +55,16 @@
     ],
     "work":[
       {
+        "company":"Carepal Money Pvt. Ltd.",
+        "title":"SDE - II",
+        "years":"Oct 2022 - Feb 2025",
+        "description":"Designed, revamped, and maintained frontend architecture with a focus on building a fully customizable, form-driven interface. Development of a dynamic system where all forms are rendered and managed based on a JSON-driven structure, enabling scalable and consistent form handling across the application."
+      },
+      {
         "company":"LogisticsNow Pvt. Ltd.",
         "title":"Senior Software Engineer",
-        "years":"Oct 2022 - Present",
-        "description":"Full Stack Developer skilled in product, architecture, and design, ensuring seamless system integration and performance.Developed live B2B Web and Mobile App bridging Transporters and Manufacturers, enhancing Supply Chain Logistics.Expertise in React, Python, MongoDB, Redis. Leveraging Firebase (Authentication, Realtime Databases, etc.), Google Cloud(Maps API - Distance, Routing, Optimize Routing, Places autocomplete, etc.), Microsoft Azure tools (CosmosDB, Function Apps, SignalR, Storage Accounts, Frontdoor, SaaS-MongoDB, etc.) for robust application development. Additionally, Managing Team of 6-8 People and working closely to ensure proper project timeline closure and feature/module deployment."
+        "years":"Oct 2022 - Feb 2025",
+        "description":"Full Stack Developer skilled in product, architecture, and design, ensuring seamless system integration and performance. Developing new live features on B2B Web and Mobile App bridging Transporters and Manufacturers, enhancing Supply Chain Logistics. Expertise in React and Python, leveraged Microsoft Azure tools (CosmosDB, Function Apps, SignalR, etc.) for robust application development. Craft UI designs, user flows, Architecture with precision using Balasamiq, Figma, and draw.io. Did Recruitment for Candidates for development roles."
       },
       {
         "company":"LogisticsNow Pvt. Ltd.",
